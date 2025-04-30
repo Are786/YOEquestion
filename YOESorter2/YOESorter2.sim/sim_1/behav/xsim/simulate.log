@@ -1,0 +1,26 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+
+--- Memory before sorting ---
+ mem[0] = 50
+ mem[1] = 20
+ mem[2] = 30
+ mem[3] = 70
+ mem[4] = 10
+ mem[5] = 90
+ mem[6] = 40
+ mem[7] = 60
+
+--- Memory after sorting ---
+ mem[0] = 10
+ mem[1] = 20
+ mem[2] = 30
+ mem[3] = 40
+ mem[4] = 50
+ mem[5] = 60
+ mem[6] = 70
+ mem[7] = 90
+
+Sorting done at time 102000 ns
+
+$finish called at time : 102 ns : File "C:/Users/maree/Desktop/XILINIX_BW_LAPTOPS/YOESorter2/YOESorter2.srcs/sim_1/new/testbench.v" Line 85
